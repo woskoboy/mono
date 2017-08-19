@@ -1,0 +1,11 @@
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/GoToEF.exe.config
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/GoToEF.exe
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/GoToEF.pdb
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/EntityFramework.dll
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/EntityFramework.SqlServer.dll
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/EntityFramework.xml
+/home/wboy/MonoProjects/GoToEF/GoToEF/bin/Debug/EntityFramework.SqlServer.xml
+/home/wboy/MonoProjects/GoToEF/GoToEF/obj/x86/Debug/GoToEF.csprojResolveAssemblyReference.cache
+/home/wboy/MonoProjects/GoToEF/GoToEF/obj/x86/Debug/GoToEF.csproj.CoreCompileInputs.cache
+/home/wboy/MonoProjects/GoToEF/GoToEF/obj/x86/Debug/GoToEF.exe
+/home/wboy/MonoProjects/GoToEF/GoToEF/obj/x86/Debug/GoToEF.pdb

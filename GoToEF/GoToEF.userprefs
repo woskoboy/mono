@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{046326C0-A071-4C01-A845-62F087831E80}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoToEF/Program.cs">
+    <Files>
+      <File FileName="GoToEF/Program.cs" Line="17" Column="1" />
+      <File FileName="GoToEF/Person.cs" Line="11" Column="1" />
+      <File FileName="GoToEF/SimpleContext.cs" Line="3" Column="41" />
+      <File FileName="GoToEF/App.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GoToEF PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
